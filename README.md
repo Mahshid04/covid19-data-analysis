@@ -84,7 +84,7 @@ covid19/
 ---
 **Barplot (Top 10 Deaths)** 
 
-![Top10Deaths](outputs/top10_deaths.png) 
+![Top10Deaths](outputs/Top10_deaths.png) 
 *This bar chart highlights the 10 countries with the highest total number of COVID-19 deaths. It provides a quick global comparison, showing which regions were most severely impacted by mortality.* 
 
 ---
