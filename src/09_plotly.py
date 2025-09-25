@@ -17,8 +17,8 @@ app.layout = ([
                 id='controls_and_radio_item',
                 inline=True,
                 style = {
-                         'left': '0%',        # چپ صفحه
-                         'top': '90%',          # این را زیاد کن تا پایین‌تر بیاید
+                         'left': '0%',        
+                         'top': '90%',          
                         'font-size': '20px',  
                 }
                 ),
